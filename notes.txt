@@ -1,0 +1,29 @@
+3 heroes to choose from at the start of the adventure (Warrior, Ranger, Rogue), unisex and open to roleplay however.
+game stats. most chosen hero, enemy that has killed the most adventurers
+player stats. types of enemies killed, total gold looted, total damage dealth, total damage recieved
+
+3 worlds - Fantasy, Reality and Sci-fi
+make the "role" in RPG anything from:
+    FANTASY: Prisoner (dungeon, throneroom, tower) 
+    REALITY: Barista (customer, coworker, classmate)
+    FANTASY: Peasant (cabbage, chicken, wolf)
+    REALITY: Pilot (tower, turbulence, landing)
+    SCI-FI: Marine (gear, alien, spaceship)
+    REALITY: Fan (ticket, seat, game)
+    REALITY: Athlete (starter, accelerate, finishline)
+    REALITY: Husband (laundry, dishes, floor)
+
+3 adventurers
+    Rhyoo - Rock 
+    Peige - Paper
+    Scher - Scissors
+
+3 choices plus random for scenario
+3 choices plus random for gear
+3 battles per scenario
+stats at the end of scenario that feeds into overall adventure stats
+csv file (google form option) for user-submitted scenarios
+
+
+
+api access for overall player data

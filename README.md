@@ -36,5 +36,5 @@ Inspired by classic text-based RPGs like *Sword of Hope* for the Game Boy.
 
 ![Hero](./img/hero.png)
 ![Enemy](./img/enemy.png)
-![Loot](./img/loot.png)
 ![Fight](./img/fight.png)
+![Loot](./img/loot.png)

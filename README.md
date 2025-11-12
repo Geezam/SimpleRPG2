@@ -31,3 +31,10 @@ Inspired by classic text-based RPGs like *Sword of Hope* for the Game Boy.
     * Loot is added to the Hero's `inventory` list.
     * A dedicated "Satchel" screen in the UI displays all collected Gold and "treasure" items.
 * **Leveling:** Gain XP from enemies to level up, which increases your Hero's `base_hpMax`, `base_speed`, and `base_evasion`.
+
+## Screenshots
+
+![Hero](./img/hero.png)
+![Enemy](./img/enemy.png)
+![Fight](./img/fight.png)
+![Loot](./img/loot.png)
